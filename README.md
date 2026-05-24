@@ -4,7 +4,7 @@
 Administered by Pearson VUE for the U.S. Department of State
 
 ## Live Demo
-**[Play it here →](https://promexdotme.github.io/cfpt-2025-basic/)**  
+** [Play it here →](https://promexdotme.github.io/CFPT-2025-basic/)) **  
 *(No download or installation needed — runs in any browser)*
 
 ---
@@ -40,9 +40,16 @@ If you're early in your prep or just want to gauge where you stand, start here.
 
 The **CFPT 2026 Complete Study Guide** is now available on Amazon as a Kindle eBook and paperback.
 
+
 [![CFPT 2026 Complete Study Guide on Amazon](https://img.shields.io/badge/Amazon-CFPT_2026_Study_Guide-orange?logo=amazon&logoColor=white)](https://www.amazon.com/dp/B0H2SXGF34/)
 
 **[→ Get it on Amazon](https://www.amazon.com/dp/B0H2SXGF34/)**
+
+[![CFPT 2026 Complete Study Guide on Amazon](https://img.shields.io/badge/Amazon-CFPT_2026_Study_Guide-orange?logo=amazon&logoColor=white)](https://www.amazon.com/dp/B0H2SXGF34/)
+
+[<img width="600" height="700" alt="CFPT Consular Fellows Practice Exam" src="https://github.com/user-attachments/assets/cb72eda1-ee0c-4883-964e-311603d5a685" />](https://www.amazon.com/dp/B0H2SXGF34/)
+
+
 
 ### What the book adds:
 
