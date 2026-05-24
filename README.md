@@ -4,7 +4,7 @@
 Administered by Pearson VUE for the U.S. Department of State
 
 ## Live Demo
-**[Play it here →](https://yourusername.github.io/cfpt-2025-basic/)**  
+**[Play it here →](https://promexdotme.github.io/cfpt-2025-basic/)**  
 *(No download or installation needed — runs in any browser)*
 
 ---
